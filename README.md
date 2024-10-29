@@ -12,23 +12,15 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 
 
 - Building habits that would help me create and present visualizations better
-- List item #2
-- List item #3
+- Familiarize myself with platforms such as Github to showcase my academic and personal projects
+- Hold myself accountable for working with data-driven projects 
 
 # Portfolio
+## Final Project Part I
+## Final Project Part II
+## Final Project Part III
+## Final Project Presentation
 
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 
 ### Setting up a separate page
