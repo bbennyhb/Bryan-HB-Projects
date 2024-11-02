@@ -13,7 +13,12 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 
 - Building habits that would help me create and present visualizations better
 - Familiarize myself with platforms such as Github to showcase my academic and personal projects
-- Hold myself accountable for working with data-driven projects 
+- Hold myself accountable for working with data-driven projects
+
+
+# Assignments
+## Assignment 2: Visualizing Government Debt
+Data Visualization 2
 
 # Portfolio
 ## Final Project Part I
