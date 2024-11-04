@@ -16,7 +16,8 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 - Hold myself accountable for working with data-driven projects
 
 # Assignment 2 — Visualizing Government Debt
-[Link to another site here' (visualizing-government-debt.md)
+
+Here is the link to assignment 2 in which we visualize Government Debt. https://github.com/bbennyhb/Bryan-HB-Projects/blob/main/visualizing-government-debt.md
 
 # Portfolio
 ## Final Project Part I
