@@ -18,7 +18,7 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 
 # Assignments
 ## Assignment 2: Visualizing Government Debt
-Data Visualization 2
+Data Visualization 2 https://github.com/bbennyhb/Bryan-HB-Projects/blob/7fa9016fb89a3d0b43207e24aa43b4670e22b66a/Data%20Visualization%202
 
 # Portfolio
 ## Final Project Part I
