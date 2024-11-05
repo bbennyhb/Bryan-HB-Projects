@@ -17,7 +17,7 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 
 # Assignment 2 — [Visualizing Government Debt](visualizing-government-debt)
 
-Here is the link to assignment 2 in which we visualize Government Debt. `visualizing-government-debt` 
+The above link displays different visualizations across countries looking at government debts.
 
 # Portfolio
 ## Final Project Part I
