@@ -41,6 +41,6 @@ As such, this visualization uses diverging colors (grey and red) in which countr
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-* * Sources: Organization for Economic Co-Operation and Development, World Bank (2010) * *
+_ _Sources: Organization for Economic Co-Operation and Development, World Bank (2010) _ _
 
 
