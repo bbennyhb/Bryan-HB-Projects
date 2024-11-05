@@ -15,7 +15,7 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 - Familiarize myself with platforms such as Github to showcase my academic and personal projects
 - Hold myself accountable for working with data-driven projects
 
-# Assignment 2 — Visualizing Government Debt
+# Assignment 2 — [Visualizing Government Debt](visualizing-government-debt)
 
 Here is the link to assignment 2 in which we visualize Government Debt. `visualizing-government-debt` 
 
