@@ -6,8 +6,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-Here is the original image from the OCED platform. https://github.com/bbennyhb/Bryan-HB-Projects/blob/main/image.jpg
-
+Here is the original image from the OCED platform. [Link here] 'image.jpg' 
 ## Working with Tableau
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
