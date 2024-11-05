@@ -1,4 +1,4 @@
-[Home Page](https://github.com/bbennyhb/Bryan-HB-Projects/edit/main/README.md) | [Government Debt](https://github.com/bbennyhb/Bryan-HB-Projects/blob/main/visualizing-government-debt.html) 
+[Home Page](https://github.com/bbennyhb/Bryan-HB-Projects/edit/main/README.md) | [Government Debt](`visualizing-government-debt`) | [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University! 
 
