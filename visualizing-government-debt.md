@@ -43,6 +43,6 @@ As such, this visualization uses diverging colors (grey and red) in which countr
 </script>
 
 
-_ _Sources: Organization for Economic Co-Operation and Development, World Bank (2010) _ _
+_Sources: Organization for Economic Co-Operation and Development, World Bank (2010)_
 
 
