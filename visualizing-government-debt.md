@@ -7,6 +7,7 @@ The following visualizations track government debt.
 ## Part one: Working with web-based visualization tools and data
 
 Original image from the OCED platform. 
+
 ![OCED Image](image.jpg) 
 
 ## Working with Tableau
@@ -40,6 +41,7 @@ As such, this visualization uses diverging colors (grey and red) in which countr
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 _ _Sources: Organization for Economic Co-Operation and Development, World Bank (2010) _ _
 
