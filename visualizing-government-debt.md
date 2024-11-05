@@ -7,7 +7,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-Here is the original image from the OCED platform. [Link here] 'image.jpg' 
+Here is the original image from the OCED platform. [OCED Image](image.jpg) 
 
 ## Working with Tableau
 
