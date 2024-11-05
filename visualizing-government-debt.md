@@ -1,4 +1,4 @@
-[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Government Debt](visualizing-government-debt) | [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
+[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
 
 # Visualizing Government Debt Across Countries
 Text here!
