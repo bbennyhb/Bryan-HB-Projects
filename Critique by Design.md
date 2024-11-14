@@ -20,7 +20,7 @@ When browsing different visualizations on Makeover Monday, I came across the fol
 
 For the full article discussing the implications of temperature discrepancies and income, see the source below.
 
-_Source: The Guardian [Link to Source](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)_
+_Source: [The Guardian](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)_
 
 
 ## Step two: the critique
