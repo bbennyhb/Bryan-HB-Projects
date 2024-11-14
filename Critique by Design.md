@@ -57,12 +57,12 @@ As such, I couldn't bring myself to publish those on Tableau Public—an embarra
 
 #### Sketch One
 
-![Average Temperatures](Average-Temperatures) 
+![Average Temperatures](Average-Temperatures.jpg) 
 
 
 #### Sketch Two
 
-![Fluctuations in Temp](Fluctuations-in-Temp)
+![Fluctuations in Temp](Fluctuations-in-Temp.jpg)
 
 
 ## Step four: Test the solution
