@@ -7,13 +7,13 @@
 When browsing different visualizations on Makeover Monday, I came across the following map that visualized how temperatures varied by location in New York. The article discussed how more affluent neighborhoods had access to bodies of water and green spaces, while poorer neighborhoods were landlocked and lacked adequate green spaces. Hence, the map highlighted how the more affluent neighborhoods of Manhattan had lower temperatures than their poor counterparts, despite being within miles of each other. I chose this visualization because I found it to be a great way to highlight how the built environment has the potential to perpetuate inequality even within a seemingly income-blind phenomenon such as temperature.
 
 
-###_Heat Map Across Manhattan and the Bronx, NYC_
+### _Heat Map Across Manhattan and the Bronx, NYC_
 ![heat_map](heat_map.jpg)
 
 
 
 
-###_Poverty Boundaries Across Manhattan and the Bronx, NYC_
+### _Poverty Boundaries Across Manhattan and the Bronx, NYC_
 ![poverty_map](poverty_map.jpg)
 
 
