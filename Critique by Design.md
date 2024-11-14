@@ -1,19 +1,14 @@
+[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-design) | [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
 
-
-
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward. In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process. You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  
-You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback. Document what you changed based on the user feedback in your redesign. 
-Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did,and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  
-Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  
-While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  
-This template does not include all guidance mentioned on the assignment page._
+# Critique by Design 
 
 ## Step one: the visualization
+
+When browsing different visualizations on Makeover Monday, I came across the following map that visualized how temperatures varied by location in New York. The article discussed how more affluent neighborhoods
+had access to bodies of water and green spaces, while poorer neighborhoods were landlocked and lacked adequate green spaces. Hence, the map highlighted how the more affluent neighborhoods of Manhattan had
+lower temperatures than their poor counterparts, despite being within miles of each other.
+
+
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  
 For obvious reasons, the data visualization you select should come from a publicly accessible source._
