@@ -36,14 +36,14 @@ What stands out immediately is its simplicity: We're instantly drawn to the map 
 In reference to _"Areas where more than 255 of households live in poverty":_
 
 
-What doesn't work well on this map are the thick bold lines that distinguish areas with poverty. While I understand the intent to show a correlation between living in poverty and living in areas with higher temperatures, i think choosing a better way to section off those areas would've improved its score on its aesthetics. I think what's most significant about this map is its emotional aspect. It prompts the question about equality and fairness. 
+What doesn't work well on this map are the thick bold lines that distinguish areas with poverty. While I understand the intent to show a correlation between living in poverty and living in areas with higher temperatures, I think choosing a better way to section off those areas would've improved its score on its aesthetics. I think what's most significant about this map is its emotional aspect. It prompts the question about equality and fairness. 
 
 When thinking about the primary audience for this visualization: 
 I think both visualizations have capacity to inform both the general public and policymakers of NYC. A subset of the general public may also include local organizations dedicated to equity and mitigating the effects of climate change. Given that the visualizations were displayed in The Guardian, I think the visualizations were effective in reaching their intended audiences as well as other communities that find equitable urban design an important mission, which may spur support for more green spaces in areas with higher temperatures.
 
 _Intended Recommendations to Improve Visualizations:_ 
 
-I think this method was successful and helped me realized I may have shot myself in the foot by choosing this visualization to critique. I don't think there's a measure that's missing entirely. However, I do think that a provision should be made to "Engagement." As we move toward more interactive visualizations, a sense of "interactiveness" should be included as part of the Engagement measure: Can the audience drill down on specific data points, regions, etc.? I think a heat map like the ones referenced would work best with interactiveness (e.g. being able to hover over Harlem, for example, and see the population and median annual income.)
+I think this method was successful and helped me realize I may have shot myself in the foot by choosing this visualization to critique. I don't think there's a measure that's missing entirely. However, I do think that a provision should be made for "Engagement." As we move toward more interactive visualizations, a sense of "interactiveness" should be included as part of the Engagement measure: Can the audience drill down on specific data points, regions, etc.? I think a heat map like the ones referenced would work best with interactiveness (e.g. being able to hover over Harlem, for example, and see the population and median annual income.)
 
 In terms of recommendations, I think the second map ("Areas where more than 25%...") should've removed the underlying temperature data and solely focused on the poverty/income levels. As such, it would've given the visualization more real estate to include income levels, population density, etc. Given that these visualizations are found in succession, the audience may be able to link temperature data from the first visualization to income/poverty data on the second visualization. In sum, having the second visualization focus solely on the households that live in poverty instead of blending the temperature data may have made it more effective. 
 
@@ -55,9 +55,14 @@ The realization I had earlier when I was critiquing the design – realizing tha
 
 As such, I couldn't bring myself to publish those on Tableau Public—an embarrassment to the pride I take in thinking I know how to make something look pretty. Said sketches are found below.
 
+#### Sketch One
+
+![Average Temperatures](Average-Temperatures) 
 
 
+#### Sketch Two
 
+![Fluctuations in Temp](Fluctuations-in-Temp)
 
 
 ## Step four: Test the solution
