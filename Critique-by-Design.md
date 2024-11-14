@@ -131,14 +131,29 @@ The x-axis first of all. It's Summer, so I don't see why the x-axis couldn't sta
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
 The patterns that emerged centered around, essentially, not knowing what the visualization was showing to begin with. While I had intended to map temperature differences across boroughs in New York, I found myself having to resort to simple line graphs and highlight tables to visualize _something_ with the data that I had. I learned that despite bad data that limited my options on available visualizations, I still had things like the Title and Subtitle and adjusting axes that could make my visualizations clearer and, frankly, not so shit. Based on this feedback, I got back to work and did what I could with the ingredients I had—and, of course, the very direct input from interviews that emphasized a "What are we looking at here?" emotion. 
 
 
 
 
 ## Step five: build the solution
+
+### Sketch One Remake
+
+![Temperature Comparison](temperature_comparison.jpg) 
+
+
+
+### Sketch Two Remake
+
+![income_harlem](income_harlem.jpg)
+
+
+
+
+
+
+
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
 When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, 
