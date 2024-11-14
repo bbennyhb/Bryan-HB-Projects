@@ -67,10 +67,9 @@ As such, I couldn't bring myself to publish those on Tableau Public—an embarra
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script. Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. 
-Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+I understood going into this stage that my visualizations were utterly malnourished. The simple escape would've been to return to stage one and choose a better visualization with easier-to-work-with data, but I figured I'd see it through and do what I could. I conducted two interviews following the questions outlined below. Interviewee A was a female in her early twenties and a graduate student. Interviewee B was a female in her mid-twenties and a graduate student as well. Interviewee A was asked to provide feedback on Sketch One, whereas Interviewee B was asked to provide feedback on Sketch Two.
 
-Questions to ask (modify these for your own interviews): 
+Given that both interviewees were graduate students in similar graduate programs and close in age, I recognize that the results of the interviews did not particularly follow the results we'd see from random sampling. Alas, part two.
 
 - Can you tell me what you think this is?
 
@@ -84,21 +83,60 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+### Interviewee A: Sketch One
+
+_Can you tell me what you think this is?_
+
+Four boroughs in New York, three months, and values for each neighborhood.
+
+_Can you describe to me what this is telling you?_
+
+I'm assuming it's comparing values for each neighborhood in each borough in each borough per month in 2018.
+
+_Is there anything you find surprising or confusing?_
+
+If you hadn't told me that the values were temperature measurements, I wouldn't have known what they were.
+
+_Who do you think is the intended audience for this?_
+
+People who live in New York. Perhaps each neighborhood, maybe the government
+
+_Is there anything you would change or do differently?_ 
+
+Change the colors, maybe make warm instead of cool colors like blue. Make it _stepped_ so it's easier to differentiate the temperatures in the table.
 
 
+### Interviewee B: Sketch Two
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+_Can you tell me what you think this is?_
 
+Looks like a trend of temperature from June to August in New York.
+
+_Can you describe to me what this is telling you?_
+
+Similar temperatures in Brooklyn and Manhattan?
+
+_Is there anything you find surprising or confusing?_
+
+It's hard to see the difference in temperatures because the lines are so close together, so they look the same.
+
+_Who do you think is the intended audience for this?_
+
+People in New York City, residents of Manhattan and Brooklyn. Could also be something you show to climate change activists.
+
+_Is there anything you would change or do differently?_ 
+
+The x-axis first of all. It's Summer, so I don't see why the x-axis couldn't start at 60. 
 
 
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+The patterns that emerged centered around, essentially, not knowing what the visualization was showing to begin with. While I had intended to map temperature differences across boroughs in New York, I found myself having to resort to simple line graphs and highlight tables to visualize _something_ with the data that I had. I learned that despite bad data that limited my options on available visualizations, I still had things like the Title and Subtitle and adjusting axes that could make my visualizations clearer and, frankly, not so shit. Based on this feedback, I got back to work and did what I could with the ingredients I had—and, of course, the very direct input from interviews that emphasized a "What are we looking at here?" emotion. 
+
+
+
 
 ## Step five: build the solution
 
