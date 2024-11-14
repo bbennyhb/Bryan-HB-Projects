@@ -28,10 +28,13 @@ _Source: [The Guardian](https://www.theguardian.com/us-news/2022/sep/07/new-york
 As I worked through some of the techniques for what differentiates a _good_ versus a _bad_ visualization, I found myself giving this visualization pretty good ratings. The realization that I may have chosen a visualization that was somewhat difficult to improve began to set in as I concluded the critique. A summary of my critique is as follows:
 
 In hindsight, this may have been a poor choice in visualizations to critique given the scores above. Alas.
+
 In reference to _"Afternoon temperatures in parts of Manhattan and the Bronx on 24 July 2022":_ 
 
 What stands out immediately is its simplicity: We're instantly drawn to the map and are able to distinguish hotter sections from the cooler ones. Additionally, the clear labels help us differentiate the parts of NYC that the map is comparing, which is especially helpful for people such as myself who aren't familiar with the layout of the city. In order to improve the map I suppose I have to get picky. What didn't work was the choice to maintain the background layer as dark as they did.
+
 In reference to _"Areas where more than 255 of households live in poverty":_
+
 
 What doesn't work well on this map are the thick bold lines that distinguish areas with poverty. While I understand the intent to show a correlation between living in poverty and living in areas with higher temperatures, i think choosing a better way to section off those areas would've improved its score on its aesthetics. I think what's most significant about this map is its emotional aspect. It prompts the question about equality and fairness. 
 
