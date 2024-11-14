@@ -62,7 +62,7 @@ As such, I couldn't bring myself to publish those on Tableau Public—an embarra
 
 #### Sketch Two
 
-![Fluctuations in Temp](Fluctuations-in-Temp.jpg)
+![Fluctuations in Temp](Fluctuations-in-Temp.jpg) 
 
 
 ## Step four: Test the solution
