@@ -51,6 +51,15 @@ As it stands, however, one change I'd make to the second visualization is to rem
 
 ## Step three: Sketch a solution
 
+The realization I had earlier when I was critiquing the design – realizing that I had chosen a visualization that would be hard to improve — suddenly became a self-deprecating battle of cleaning data and trying to manually code locations that Tableau was not recognizing to be boroughs of New York. It was at this point in the assignment that I, for lack of a better phrase, hit a brick wall. The dataset I had downloaded, the one associated with the article, was 1) huge with more than two million rows, and 2) encoded with acronyms that Tableau did not recognize. As such, the intended heat map that I wanted to create, initially, became just points on a greyed-out layer. I wanted to cry. 
+
+As such, I couldn't bring myself to publish those on Tableau Public—an embarrassment to the pride I take in thinking I know how to make something look pretty. Said sketches are found below.
+
+
+
+
+
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script. Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. 
