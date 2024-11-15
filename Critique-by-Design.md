@@ -150,11 +150,16 @@ The patterns that emerged centered around, essentially, not knowing what the vis
 
 
 
+### Process and Intent
+
+The process of creating these final visualizations was a process of acceptance, recognizing that the visualizations I had in mind when I first downloaded the data would not, ultimately, come to fruition. Part of that was not expecting the dataset to give me the troubles that it did—after all, it was a source used in The Guardian, but I suppose not even big media companies are compliant with clean data. As such, the process of recreating the first visual was a simpler one: I took the feedback about including diverging colors—cooler tones to represent the cooler temperatures, warmer tones to represent...well you get the gist—and narrowed down my search to focus on two boroughs instead. 
+
+I chose to focus on Brooklyn and Manhattan primarily because no one in their right mind would recommend a summer intern who'll be working in Manhattan to live in Queens (though they have excellent food) or Staten Island (much debate exists about whether Staten Island should even be considered as an option for a fun summer in New York). Additionally,  by focusing primarily on these two boroughs, I'd be able to segue into my second sketch: A map of the annual household income of neighborhoods in Manhattan. The intention of this map was to bridge the findings of the visualization above it. In essence, if it made sense to live in a neighborhood in Manhattan with lower average summer temperatures relative to other neighborhoods in the same borough or a neighboring borough such as Brooklyn, it might be reasonable to include income data for that neighborhood. The assumption here was that if the annual income is low enough in this neighborhood, then we might expect that rent prices would follow a similar trend. 
+
+### Takeaways
+
+Overall, this assignment was indeed a tumultuous one, one that dealt with creativity roadblocks and broiling frustration when maps wouldn't render. If I had to spell out key takeaways, I think the major one would center around adaptability. Let me explain.
+
+The initial intention with this was to recreate a nicer heat map and layer income data of those neighborhoods differently than the original visualization. Once I realized that any attempts to do so with the given data were futile, I chose to pivot to a more informative map—a map that I'd show a friend who's interning in New York for the upcoming summer. This friend would, in theory, hate the heat (a Minnesotan born-and-raised) and high rent prices (definitely from Minnesotan suburbs). With that in mind, these visualizations would, hopefully, provide them with some reassurance that, despite a looming and humid and hot NYC summer expected them, there could be pockets of not-so-bad temperature at a reasonable price within commuting distance of their job site. Worst case scenario, they don't sign the return offer.
 
 
-
-
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
-When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, 
-documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
