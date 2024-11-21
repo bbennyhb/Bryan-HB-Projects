@@ -25,7 +25,7 @@ A progression of these effects without proper guardrails would be detrimental to
 ### Intended Story Structure
 
 ![story_outline](story_outline.jpg) 
-![heat_map](heat_map.jpg)
+
 
 In building out the anticipated story structure, the image above is what I hope to follow as I develop my story.
 
