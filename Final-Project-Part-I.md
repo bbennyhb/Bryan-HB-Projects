@@ -36,15 +36,15 @@ In building out the anticipated story structure, the image above is what I hope 
 
 Based on the type of data that I plan on using, the following sketches might help drive my call to action. The following can be done using a combination of R, Tableau, and ArcGIS Pro. 
 
-### Sketch One
+### Sketch One: Correlation Between Income and Number of Parks
 
 ![Income and Parks](income-correlation.png)
 
-### Sketch Two
+### Sketch Two: Correlation Between Higher Temperature and Number of Parks
 
 ![Temperature and Parks Correlations](temp-correlation.png)
 
-### Sketch Three
+### Sketch Three: Network Analysis
 
 ![Network Analysis](network-analysis.png) 
 
@@ -57,14 +57,14 @@ The following subheaders and linked sources are what I intend to use as my data 
 
 ## Weather
 
-Visual Crossing | https://www.visualcrossing.com/weather/weather-data-services/Houston,%20TX?v=api# | Produces a URL link that can be included in R Studio using the read.csv command. The website uses APIs to gather air temperature data for a given location and can filter on assigned dates.
-National Centers for Environmental Information | https://www.ncdc.noaa.gov/cdo-web/search | Much like Visual Crossing, this website can retrieve air temperature data for a given location but can also produce precipitation data based on "stations" located in select counties or zip codes. I'm not fully sure if I'll be using this database, but it's good to have in the back pocket.
+| Visual Crossing | https://www.visualcrossing.com/weather/weather-data-services/Houston,%20TX?v=api# | Produces a URL link that can be included in R Studio using the read.csv command. The website uses APIs to gather air temperature data for a given location and can filter on assigned dates.|
+| National Centers for Environmental Information | https://www.ncdc.noaa.gov/cdo-web/search | Much like Visual Crossing, this website can retrieve air temperature data for a given location but can also produce precipitation data based on "stations" located in select counties or zip codes. I'm not fully sure if I'll be using this database, but it's good to have in the back pocket. |
 
 
 ## Parks
 
-ParkServe | https://www.tpl.org/park-data-downloads | Database of Parks by Location Search, which produces CSV files of the number of parks with associated names.
-National Neighborhood Data Archive | https://www.openicpsr.org/openicpsr/project/117921/version/V1/view?path=/openicpsr/117921/fcr:versions/V1.3/nanda_parks_tract_2018_01P_csv_with_readme.zip&type=file | Similar to ParkServe by can filter park data by Census Tract.
+| ParkServe | https://www.tpl.org/park-data-downloads | Database of Parks by Location Search, which produces CSV files of the number of parks with associated names. |
+| National Neighborhood Data Archive | https://www.openicpsr.org/openicpsr/project/117921/version/V1/view?path=/openicpsr/117921/fcr:versions/V1.3/nanda_parks_tract_2018_01P_csv_with_readme.zip&type=file | Similar to ParkServe by can filter park data by Census Tract. |
 
 
 # Method and medium
