@@ -24,7 +24,7 @@ A progression of these effects without proper guardrails would be detrimental to
  
 ### Intended Story Structure
 
-![story-outline](story-outline.jpg) 
+![story-outline](story.png) 
 
 
 
