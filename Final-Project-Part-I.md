@@ -24,7 +24,8 @@ A progression of these effects without proper guardrails would be detrimental to
  
 ### Intended Story Structure
 
-![story outline](story-outline.jpg) 
+![Story Outline](story-outline.jpg) 
+
 
 
 In building out the anticipated story structure, the image above is what I hope to follow as I develop my story.
@@ -37,15 +38,15 @@ Based on the type of data that I plan on using, the following sketches might hel
 
 ### Sketch One
 
-![income parks correlation](income-parks-correlation.jpg)
+![Income and Parks Correlations](income-parks-correlation.jpg) 
 
 ### Sketch Two
 
-![temp parks correlation](temp-parks-correlation.jpg)
+![Temperature and Parks Correlations](temp-parks-correlation.jpg)
 
 ### Sketch Three
 
-![network analysis](network-analysis.jpg)
+![Network Analysis](network-analysis.jpg) 
 
 
 
