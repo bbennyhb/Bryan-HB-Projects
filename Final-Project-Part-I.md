@@ -1,4 +1,4 @@
-[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-Design) | [Final Project Part I](final-project-part-I)| [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
+[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-Design) | [Final Project Part I](final-project-part-one)| [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
 
 
 # Outline
