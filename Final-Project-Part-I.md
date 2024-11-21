@@ -1,4 +1,4 @@
-[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-Design) | [Final Project Part I](final-project-part-I)| [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
+[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-Design) | [Final Project Part I](Final-Project-Part-I)| [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
 
 
 # Outline
@@ -24,7 +24,7 @@ A progression of these effects without proper guardrails would be detrimental to
  
 ### Intended Story Structure
 
-![story_outline](story_outline.jpg) 
+![story_outline](story_outline.jpg)  
 
 In building out the anticipated story structure, the image above is what I hope to follow as I develop my story.
 
