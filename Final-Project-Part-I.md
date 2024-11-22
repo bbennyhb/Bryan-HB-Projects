@@ -4,7 +4,7 @@
 # Outline
 
 ## Purpose:
-Regions across the United States are dealing with the reality of climate change: increases to temperatures year over year. Research shows that with increasing annual temperatures, the duration of heat-driven seasons also increases.
+Regions across the United States are dealing with the reality of climate change: increases in temperatures year over year. Research shows that with increasing annual temperatures, the duration of heat-driven seasons also increases.
 In essence, summers are getting hotter and longer. Rising temperatures are especially dangerous for highly populated cities with dense urban centers. High temperatures in dialogue with urbanized areas are susceptible to heat island effects, a byproduct of climate change and urbanization that results in urban areas facing 1-7 degrees Fahrenheit higher than temperatures in outlying areas.
 In summary, my project focuses on finding the right locations to build green spaces to lower high temperatures in dense cities.
 As city residents, it's understandable to want lower temperatures and more parks so that city residents can enjoy going outside to romanticize the city without overheating.
@@ -52,7 +52,6 @@ Based on the type of data that I plan on using, the following sketches might hel
 
 # The data
 
-The following subheaders and linked sources are what I intend to use as my data sources. The Parks data will give me the number of parks by 
 
 
 ## Weather
