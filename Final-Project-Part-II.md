@@ -25,9 +25,7 @@ To reach these individuals, I'll be leveraging my network (e.g. friends who stil
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -38,7 +36,6 @@ Text here!
 
 # Identified changes for Part III
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
