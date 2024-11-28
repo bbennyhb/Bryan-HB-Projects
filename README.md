@@ -20,8 +20,8 @@ I'm primarily interested in building out a one-stop shop for some of the stuff I
 The above link displays different visualizations across countries looking at government debts.
 
 # Portfolio
-## Final Project Part I
-## Final Project Part II
+## Final Project Part I – [Final Project Part I](Final-Project-Part-I)
+## Final Project Part II — [Final Project Part II](Final-Project-PartII)
 ## Final Project Part III
 ## Final Project Presentation
 
