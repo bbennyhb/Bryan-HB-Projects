@@ -1,4 +1,4 @@
-[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-Design) | [Final Project Part I](Final-Project-Part-I) | [Final Project Part II](Final-Project-Part-II) | [Final Project Part III](Final-Project-Part-III) [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
+[Home Page](https://bbennyhb.github.io/Bryan-HB-Projects/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](Critique-by-Design) | [Final Project Part I](Final-Project-Part-I) | [Final Project Part II](Final-Project-Part-II) | [Final Project Part III](Final-Project-Part-III) | [Columns](https://www.dailycal.org/users/profile/bryan%20hernandez%20benitez/) 
 
 
 # Visualizing Government Debt Across Countries
