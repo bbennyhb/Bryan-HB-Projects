@@ -24,7 +24,7 @@ The above link displays different visualizations across countries looking at gov
 ## Final Project Part I – [Final Project Part I](Final-Project-Part-I)
 ## Final Project Part II — [Final Project Part II](Final-Project-Part-II)
 ## Final Project Part III - [Final Project Part III](Final-Project-Part-III)
-## Final Project Presentation
+## Final Project Presentation - [Final Project Presentation](https://carnegiemellon.shorthandstories.com/green-spaces-cooler-places/index.html)
 
 
 
